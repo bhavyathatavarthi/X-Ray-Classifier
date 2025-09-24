@@ -5,7 +5,7 @@ This project is a deep learning-based image classification model designed to det
 The frontend is built using Streamlit
 The backend is built using FastAPI
 ### Screenshot of the WebPage
-![App Screenshot](demo.png)
+![App Screenshot](api.png)
 ## Dataset Details
 The dataset consists of four classes:
 COVID-19
